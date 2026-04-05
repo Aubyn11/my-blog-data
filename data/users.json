@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1775366661449amfkoumis",
+    "username": "admin",
+    "email": "admin@blog.com",
+    "password": "$2a$12$tkrelMLyRq5FfjWXYLrpCeBdJ3KNYjqR1NOFh7fZHbHHFq/f6mn96",
+    "displayName": "系统管理员",
+    "role": "admin",
+    "isActive": true,
+    "bio": "系统默认管理员账户",
+    "createdAt": "2026-04-05T05:24:21.449Z",
+    "updatedAt": "2026-04-05T05:24:21.449Z"
+  }
+]

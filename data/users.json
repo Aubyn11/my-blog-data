@@ -10,5 +10,18 @@
     "bio": "系统默认管理员账户",
     "createdAt": "2026-04-05T05:24:21.449Z",
     "updatedAt": "2026-04-05T05:24:21.449Z"
+  },
+  {
+    "id": "1775376218509ylw3u333g",
+    "username": "Aubyn",
+    "email": "2028036856@qq.com",
+    "password": "$2a$12$/caFPc1yxO/.gSjAfKP3m.y04CjUZf892Bxz51EKlzUEIwmwv4A3i",
+    "displayName": "Aubyn",
+    "role": "user",
+    "avatar": null,
+    "bio": "",
+    "isActive": true,
+    "createdAt": "2026-04-05T08:03:38.509Z",
+    "updatedAt": "2026-04-05T08:03:38.509Z"
   }
 ]

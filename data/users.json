@@ -23,5 +23,18 @@
     "isActive": true,
     "createdAt": "2026-04-05T08:03:38.509Z",
     "updatedAt": "2026-04-05T08:03:38.509Z"
+  },
+  {
+    "id": "1775479593865hnx2ebt8e",
+    "username": "King Of 刘宇轩",
+    "email": "2458727316@qq.com",
+    "password": "$2a$12$bl.bk9xrg6HiaaEEbsuUYuSCza0vVvIlhXznjFgzrYW26wP/Esr0u",
+    "displayName": "King Of 刘宇轩",
+    "role": "user",
+    "avatar": null,
+    "bio": "",
+    "isActive": true,
+    "createdAt": "2026-04-06T12:46:33.865Z",
+    "updatedAt": "2026-04-06T12:46:33.865Z"
   }
 ]
